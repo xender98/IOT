@@ -11,7 +11,7 @@ Home security Project using the Raspberry pi
   
   
   
-          1)PIR sensor(for detect movment)
+          1)PIR sensor(for detect movement)
           
           2)LDR sensor(for measuring the intensity of light)
           
